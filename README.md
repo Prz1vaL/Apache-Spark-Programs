@@ -11,7 +11,7 @@ Before running these programs, you need to install Apache Spark and PySpark on y
 
 Once you have installed Apache Spark, you can install PySpark using pip:
 
-Copy code <code> pip install pyspark </code>
+<code> pip install pyspark </code>
 
 ---
 
